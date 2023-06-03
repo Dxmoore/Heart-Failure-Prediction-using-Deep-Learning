@@ -1,16 +1,16 @@
-Heart Failure Prediction using Machine Learning
+#Heart Failure Prediction using Machine Learning
 
 This project focuses on predicting the survival of patients with heart failure using machine learning techniques. By utilizing a dataset obtained from Kaggle, we aim to develop a predictive model that takes into account various factors, including serum creatinine, ejection fraction, age, anemia, diabetes, and more.
 
-Dataset
+##Dataset
 
 The dataset used for this project can be found at https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data. It contains 12 features that are crucial in predicting mortality caused by heart failure. The dataset provides a valuable resource for understanding and addressing cardiovascular diseases, which are the leading cause of death worldwide.
 
-Project Goal
+##Project Goal
 
 The primary objective of this project is to build a machine learning model that accurately predicts the survival of patients with heart failure. By leveraging the dataset's features and employing suitable algorithms and techniques, we aim to develop a model that can assist in the early detection and management of cardiovascular diseases. This, in turn, can contribute to preventive measures and improve patient outcomes.
 
-Getting Started
+##Getting Started
 
 To get started with this project, follow these steps:
 
